@@ -10,6 +10,13 @@ OmniLint sits between your raw data and your ML pipeline. It runs a battery of q
 
 ---
 
+> 📄 **Read the Full Business Case Study:**
+> [How OmniLint Accelerates Digital Transformation in ML Pipelines →](./CASE_STUDY.md)
+
+---
+
+---
+
 ## Table of Contents
 
 - [Features](#features)
